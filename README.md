@@ -1,3 +1,8 @@
+![Bmi](https://github.com/aniketlokare-948/BMI-Calculator/assets/95675694/2592fa70-bfb2-4cad-a760-26611b119c8c)
+![Bmi1](https://github.com/aniketlokare-948/BMI-Calculator/assets/95675694/bc1a6221-7abd-4367-b759-49cde5433c8d)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
